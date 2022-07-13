@@ -7,21 +7,25 @@
 
 ||||||||||||||||||||||||||||||||||||||||||||||||
 {
-location: 'Anden1',
-date: 1657754756946,
-tagcount: '2',
-tags: [
-{
-logicaldevice: 'Anden1',
-epc: '8170EF0EEDC002E4F7C03616166AF532',
-fields: {}
-},
-{
-logicaldevice: 'Anden1',
-epc: '329CCCC05E2C02C9D8081562301FD644',
-fields: {}
-}
-]
+  location: 'Anden1',
+  date: 1657755985402,
+  tagcount: '2',
+  tags: [
+    {
+      rssi: '-41.7',
+      logicaldevice: 'Anden1',
+      count: '14',
+      epc: '8170EF0EEDC002E4F7C03616166AF532',
+      fields: {}
+    },
+    {
+      rssi: '-47.3',
+      logicaldevice: 'Anden1',
+      count: '14',
+      epc: '329CCCC05E2C02C9D8081562301FD644',
+      fields: {}
+    }
+  ]
 }
 ================================================
 ```
